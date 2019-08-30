@@ -11,17 +11,17 @@
 
 .parentContiner {
 	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-	color: aliceblue;
+	color: black;
 	width: 100%;
 	margin: 0 auto;
-	background-color: rgba(58, 56, 56, 0.863);
+	background-color: whitesmoke;
 	padding-bottom: 60px;
 }
 .headerContainer {
 	text-align: center;
-	box-shadow: 0 1px 3px 0px aliceblue;
+	box-shadow: 0 1px 3px 0px black;
 	width: 100%;
-	background-color: black;
+	background-color: whitesmoke;
 }
 
 .headerContainer h3 {
